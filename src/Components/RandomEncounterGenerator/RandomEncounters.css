@@ -1,0 +1,24 @@
+.Core-Styles_Core-Body {
+    display: block;
+    font-family: 'Roboto', Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 30px;
+    margin-block-end: 12px;
+    margin-bottom: 12px;
+    overflow-wrap: break-word;
+    text-size-adjust: 100%;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+    color: #47D18C;
+}
+
+.tooltip-hover {
+    font-weight: bold !important;
+}
+
+.tooltip-hover.monster-tooltip {
+    color: #bc0f0f!important;
+}
